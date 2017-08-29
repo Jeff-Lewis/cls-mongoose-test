@@ -1,0 +1,15 @@
+{
+  "name": "cls-mongoose-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Lewis <jlewis@streetconnect.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cls-hooked": "^4.2.2",
+    "mongoose": "^4.11.9"
+  }
+}
